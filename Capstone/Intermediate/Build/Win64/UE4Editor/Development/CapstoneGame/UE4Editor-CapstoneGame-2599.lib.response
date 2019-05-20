@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CapstoneGame-2599.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\hitec\Documents\CSI\Capstone\Intermediate\Build\Win64\UE4Editor\Development\CapstoneGame\PCH.CapstoneGame.h.obj"
+"D:\hitec\Documents\CSI\Capstone\Intermediate\Build\Win64\UE4Editor\Development\CapstoneGame\CapstoneGame.cpp.obj"
+"D:\hitec\Documents\CSI\Capstone\Intermediate\Build\Win64\UE4Editor\Development\CapstoneGame\CustomViewportClient.cpp.obj"
+"D:\hitec\Documents\CSI\Capstone\Intermediate\Build\Win64\UE4Editor\Development\CapstoneGame\UtilityFunctionLibrary.cpp.obj"
+"D:\hitec\Documents\CSI\Capstone\Intermediate\Build\Win64\UE4Editor\Development\CapstoneGame\CapstoneGame.init.gen.cpp.obj"
+"D:\hitec\Documents\CSI\Capstone\Intermediate\Build\Win64\UE4Editor\Development\CapstoneGame\CustomViewportClient.gen.cpp.obj"
+"D:\hitec\Documents\CSI\Capstone\Intermediate\Build\Win64\UE4Editor\Development\CapstoneGame\UtilityFunctionLibrary.gen.cpp.obj"
+"D:\hitec\Documents\CSI\Capstone\Intermediate\Build\Win64\UE4Editor\Development\CapstoneGame\PCLaunch.rc.res"
+/OUT:"D:\hitec\Documents\CSI\Capstone\Intermediate\Build\Win64\UE4Editor\Development\CapstoneGame\UE4Editor-CapstoneGame-2599.lib"

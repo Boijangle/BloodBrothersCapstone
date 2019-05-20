@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CapstoneGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E6B41506-9B10-4721-8C3D-DCAB7178C3A4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CapstoneGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CapstoneGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{4745DD07-67B2-498A-96B8-791D80A08F22}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CapstoneGame">
+      <UniqueIdentifier>{467582BC-B543-4E5A-A637-C8D5D2E6593C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CapstoneGame\CapstoneGame.Build.cs">
+      <Filter>Source\CapstoneGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CapstoneGame\CapstoneGame.cpp">
+      <Filter>Source\CapstoneGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CapstoneGame\CapstoneGame.h">
+      <Filter>Source\CapstoneGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CapstoneGame\CustomViewportClient.cpp">
+      <Filter>Source\CapstoneGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CapstoneGame\CustomViewportClient.h">
+      <Filter>Source\CapstoneGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CapstoneGame\UtilityFunctionLibrary.cpp">
+      <Filter>Source\CapstoneGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CapstoneGame\UtilityFunctionLibrary.h">
+      <Filter>Source\CapstoneGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

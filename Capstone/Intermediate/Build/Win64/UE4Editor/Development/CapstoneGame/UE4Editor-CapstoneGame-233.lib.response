@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CapstoneGame-233.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\hitec\Documents\CSI\Capstone\Intermediate\Build\Win64\CapstoneGameEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\hitec\Documents\CSI\Capstone\Intermediate\Build\Win64\UE4Editor\Development\CapstoneGame\CapstoneGame.cpp.obj"
+"D:\hitec\Documents\CSI\Capstone\Intermediate\Build\Win64\UE4Editor\Development\CapstoneGame\MyClass.cpp.obj"
+"D:\hitec\Documents\CSI\Capstone\Intermediate\Build\Win64\UE4Editor\Development\CapstoneGame\UtilityFunctionLibrary.cpp.obj"
+"D:\hitec\Documents\CSI\Capstone\Intermediate\Build\Win64\UE4Editor\Development\CapstoneGame\CapstoneGame.init.gen.cpp.obj"
+"D:\hitec\Documents\CSI\Capstone\Intermediate\Build\Win64\UE4Editor\Development\CapstoneGame\UtilityFunctionLibrary.gen.cpp.obj"
+"D:\hitec\Documents\CSI\Capstone\Intermediate\Build\Win64\UE4Editor\Development\CapstoneGame\PCLaunch.rc.res"
+/OUT:"D:\hitec\Documents\CSI\Capstone\Intermediate\Build\Win64\UE4Editor\Development\CapstoneGame\UE4Editor-CapstoneGame-233.lib"

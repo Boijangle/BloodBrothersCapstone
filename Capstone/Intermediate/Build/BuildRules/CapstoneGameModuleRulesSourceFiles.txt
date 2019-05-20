@@ -1,0 +1,3 @@
+D:\hitec\Documents\CSI\Undergrad\Capstone\Source\CapstoneGame\CapstoneGame.Build.cs
+D:\hitec\Documents\CSI\Undergrad\Capstone\Source\CapstoneGame.Target.cs
+D:\hitec\Documents\CSI\Undergrad\Capstone\Source\CapstoneGameEditor.Target.cs

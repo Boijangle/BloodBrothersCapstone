@@ -1,0 +1,2073 @@
+﻿Log file open, 05/01/19 12:09:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CapstoneGame
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.409264
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.076s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/ProgramFiles/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/hitec/Documents/CSI/Capstone/Saved/Config/Windows/Engine.ini]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:0]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/hitec/Documents/CSI/Capstone/Saved/Config/Windows/Engine.ini]
+[2019.05.01-17.09.53:238][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/hitec/Documents/CSI/Capstone/Saved/Config/Windows/Engine.ini]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/hitec/Documents/CSI/Capstone/Saved/Config/Windows/Engine.ini]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.01-17.09.53:238][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.01-17.09.53:239][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.01-17.09.53:239][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.01-17.09.53:239][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.01-17.09.53:239][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.01-17.09.53:239][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.01-17.09.53:239][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.01-17.09.53:239][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.01-17.09.53:239][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.01-17.09.53:239][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/hitec/Documents/CSI/Capstone/Saved/Config/Windows/Engine.ini]
+[2019.05.01-17.09.53:239][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/hitec/Documents/CSI/Capstone/Saved/Config/Windows/Engine.ini]
+[2019.05.01-17.09.53:248][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/hitec/Documents/CSI/Capstone/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/hitec/Documents/CSI/Capstone/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/hitec/Documents/CSI/Capstone/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/hitec/Documents/CSI/Capstone/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/hitec/Documents/CSI/Capstone/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.01-17.09.53:248][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.01-17.09.53:249][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.01-17.09.53:249][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.01-17.09.53:249][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.01-17.09.53:249][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.01-17.09.53:249][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.01-17.09.53:249][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.01-17.09.53:249][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/hitec/Documents/CSI/Capstone/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-17.09.53:249][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.01-17.09.53:249][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.01-17.09.53:249][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.01-17.09.53:249][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.01-17.09.53:249][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.01-17.09.53:249][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.01-17.09.53:249][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.01-17.09.53:249][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.01-17.09.53:249][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.01-17.09.53:249][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.01-17.09.53:249][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.01-17.09.53:249][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.01-17.09.53:249][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.01-17.09.53:249][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/hitec/Documents/CSI/Capstone/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-17.09.53:249][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.01-17.09.53:249][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.01-17.09.53:249][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.01-17.09.53:249][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.01-17.09.53:255][  0]LogHAL: Display: Platform has ~ 16 GB [17018634240 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.01-17.09.53:255][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.01-17.09.53:255][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.01-17.09.53:255][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/hitec/Documents/CSI/Capstone/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-17.09.53:255][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.01-17.09.53:255][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.01-17.09.53:255][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/hitec/Documents/CSI/Capstone/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/hitec/Documents/CSI/Capstone/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/hitec/Documents/CSI/Capstone/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/hitec/Documents/CSI/Capstone/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/hitec/Documents/CSI/Capstone/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/hitec/Documents/CSI/Capstone/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.01-17.09.53:256][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.01-17.09.53:257][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.01-17.09.53:257][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/hitec/Documents/CSI/Capstone/Saved/Config/Windows/Engine.ini]
+[2019.05.01-17.09.53:257][  0]LogInit: Computer: BOIJANGLEV3
+[2019.05.01-17.09.53:257][  0]LogInit: User: hitec
+[2019.05.01-17.09.53:257][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.05.01-17.09.53:257][  0]LogInit: High frequency timer resolution =2.156249 MHz
+[2019.05.01-17.09.53:257][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.05.01-17.09.53:257][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.01-17.09.53:257][  0]LogMemory: Process Physical Memory: 104.25 MB used, 104.25 MB peak
+[2019.05.01-17.09.53:257][  0]LogMemory: Process Virtual Memory: 87.82 MB used, 87.82 MB peak
+[2019.05.01-17.09.53:257][  0]LogMemory: Physical Memory: 9891.71 MB used,  6338.52 MB free, 16230.23 MB total
+[2019.05.01-17.09.53:257][  0]LogMemory: Virtual Memory: 4648.68 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.05.01-17.09.53:652][  0]LogInit: Using OS detected language (en-US).
+[2019.05.01-17.09.53:652][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.01-17.09.53:654][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.01-17.09.53:985][  0]LogStreaming: Display: Took  0.332s to InitEngineTextLocalization.
+[2019.05.01-17.09.53:985][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.01-17.09.54:045][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.01-17.09.54:045][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.01-17.09.54:438][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.01-17.09.54:438][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.01-17.09.54:510][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.05.01-17.09.54:510][  0]LogD3D11RHI:       6052/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.05.01-17.09.54:526][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.05.01-17.09.54:526][  0]LogD3D11RHI:       128/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.05.01-17.09.54:528][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.01-17.09.54:528][  0]LogD3D11RHI:       0/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.01-17.09.54:528][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.01-17.09.54:539][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.01-17.09.54:539][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.01-17.09.54:539][  0]LogWindows: EnumDisplayDevices:
+[2019.05.01-17.09.54:540][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2019.05.01-17.09.54:540][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.05.01-17.09.54:540][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.05.01-17.09.54:541][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2019.05.01-17.09.54:541][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2019.05.01-17.09.54:541][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.05.01-17.09.54:541][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.05.01-17.09.54:542][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.05.01-17.09.54:542][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.05.01-17.09.54:542][  0]LogD3D11RHI:   Driver Version: 419.35 (internal:25.21.14.1935, unified:419.35)
+[2019.05.01-17.09.54:542][  0]LogD3D11RHI:      Driver Date: 3-1-2019
+[2019.05.01-17.09.54:542][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.05.01-17.09.54:581][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.01-17.09.54:598][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.01-17.09.55:023][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.01-17.09.55:035][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.01-17.09.55:047][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.01-17.09.55:059][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.01-17.09.55:071][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.01-17.09.55:083][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.01-17.09.55:094][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.01-17.09.55:109][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.01-17.09.55:116][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.01-17.09.55:179][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-17.09.55:179][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-17.09.55:179][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-17.09.55:180][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-17.09.55:180][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-17.09.55:180][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-17.09.55:180][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-17.09.55:180][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-17.09.55:180][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-17.09.55:180][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-17.09.55:180][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-17.09.55:180][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-17.09.55:180][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-17.09.55:180][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-17.09.55:180][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-17.09.55:180][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-17.09.55:180][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-17.09.55:180][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-17.09.55:181][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.01-17.09.55:239][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.01-17.09.55:239][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.01-17.09.55:259][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.01-17.09.55:259][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.01-17.09.55:271][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.01-17.09.55:283][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.01-17.09.55:294][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.01-17.09.55:305][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.01-17.09.55:353][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.01-17.09.55:353][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.01-17.09.55:353][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.01-17.09.55:418][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../hitec/Documents/CSI/Capstone/Intermediate/Shaders/WorkingDirectory/54500/).
+[2019.05.01-17.09.55:418][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/hitec/AppData/Local/Temp/UnrealShaderWorkingDir/539AE96149B4116A5C4FB7BEACA2189D/'.
+[2019.05.01-17.09.55:420][  0]LogXGEController: Cleaning working directory: C:/Users/hitec/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.01-17.09.55:420][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.01-17.09.55:420][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.01-17.09.55:420][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.01-17.09.55:923][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.01-17.09.55:968][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/hitec/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.01-17.09.55:968][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/hitec/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.01-17.09.55:968][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../hitec/Documents/CSI/Capstone/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.01-17.09.55:968][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.01-17.09.55:968][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../hitec/Documents/CSI/Capstone/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.01-17.09.55:968][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.01-17.09.55:981][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.01-17.09.55:981][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.01-17.09.55:981][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.01-17.09.55:994][  0]LogDerivedDataCache: Using Local data cache path C:/Users/hitec/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.01-17.09.55:994][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.01-17.09.55:994][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.01-17.09.56:013][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.01-17.09.56:014][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.01-17.09.56:015][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.01-17.09.56:132][  0]LogAssetRegistry: FAssetRegistry took 0.0327 seconds to start up
+[2019.05.01-17.09.56:411][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.01-17.09.56:545][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.01-17.09.56:549][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.01-17.09.56:549][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.01-17.09.56:549][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.01-17.09.56:549][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.01-17.09.56:564][  0]LogNetVersion: CapstoneGame 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3201965130)
+[2019.05.01-17.09.57:075][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.082975 seconds
+[2019.05.01-17.09.57:080][  0]LogUObjectArray: 39784 objects as part of root set at end of initial load.
+[2019.05.01-17.09.57:080][  0]LogUObjectAllocator: 6925456 out of 0 bytes used by permanent object pool.
+[2019.05.01-17.09.57:080][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.01-17.09.58:134][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.01-17.09.58:148][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.01-17.09.59:078][  0]SourceControl: Source control is disabled
+[2019.05.01-17.09.59:078][  0]SourceControl: Source control is disabled
+[2019.05.01-17.09.59:240][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.01-17.09.59:787][  0]LogOcInput: OculusInput pre-init called
+[2019.05.01-17.09.59:916][  0]LogEngine: Initializing Engine...
+[2019.05.01-17.09.59:916][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.01-17.09.59:918][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.01-17.09.59:918][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.01-17.09.59:918][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.01-17.09.59:918][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.01-17.10.00:195][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.01-17.10.00:206][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.01-17.10.00:268][  0]LogInit: XAudio2 using 'Speakers (6- USB Multi-Channel Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.01-17.10.00:283][  0]LogInit: FAudioDevice initialized.
+[2019.05.01-17.10.00:283][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.01-17.10.00:353][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/hitec/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.01-17.10.00:359][  0]LogInit: Texture streaming: Enabled
+[2019.05.01-17.10.00:376][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.01-17.10.00:392][  0]LogInit: Transaction tracking system initialized
+[2019.05.01-17.10.00:414][  0]BlueprintLog: New page: Editor Load
+[2019.05.01-17.10.00:479][  0]LocalizationService: Localization service is disabled
+[2019.05.01-17.10.00:683][  0]DDCNotifications: Shared DDC not detected, performance notification enabled
+[2019.05.01-17.10.00:856][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.01-17.10.00:856][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.01-17.10.00:856][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.01-17.10.00:856][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.01-17.10.00:856][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.01-17.10.00:857][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.01-17.10.00:857][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.01-17.10.01:035][  0]LogFileCache: Scanning file cache for directory 'D:/hitec/Documents/CSI/Capstone/Content/' took 0.03s
+[2019.05.01-17.10.01:035][  0]Cmd: MAP LOAD FILE="../../../../../../hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.01-17.10.01:036][  0]LightingResults: New page: Lighting Build
+[2019.05.01-17.10.01:038][  0]MapCheck: New page: Map Check
+[2019.05.01-17.10.01:038][  0]LightingResults: New page: Lighting Build
+[2019.05.01-17.10.02:748][  0]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Meshes/Bones/Head_001'
+[2019.05.01-17.10.02:749][  0]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Meshes/Bones/Head_001' while loading ../../../../../../hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Meshes/Bones/bone_pile2.uasset.
+[2019.05.01-17.10.02:749][  0]LoadErrors: Error: /Game/SideScrollerBP/Meshes/Bones/bone_pile2 : Can't find file for asset. /Game/SideScrollerBP/Meshes/Bones/Head_001
+[2019.05.01-17.10.02:749][  0]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Meshes/Bones/Inset_000'
+[2019.05.01-17.10.02:749][  0]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Meshes/Bones/Inset_000' while loading ../../../../../../hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Meshes/Bones/bone_pile2.uasset.
+[2019.05.01-17.10.02:749][  0]LoadErrors: Error: /Game/SideScrollerBP/Meshes/Bones/bone_pile2 : Can't find file for asset. /Game/SideScrollerBP/Meshes/Bones/Inset_000
+[2019.05.01-17.10.02:749][  0]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Meshes/Bones/Head_001'
+[2019.05.01-17.10.02:749][  0]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Meshes/Bones/Head_001' while loading ../../../../../../hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Meshes/Bones/bone_pile2.uasset.
+[2019.05.01-17.10.02:749][  0]LoadErrors: Error: /Game/SideScrollerBP/Meshes/Bones/bone_pile2 : Can't find file for asset. /Game/SideScrollerBP/Meshes/Bones/Head_001
+[2019.05.01-17.10.02:749][  0]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Meshes/Bones/Inset_000'
+[2019.05.01-17.10.02:749][  0]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Meshes/Bones/Inset_000' while loading ../../../../../../hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Meshes/Bones/bone_pile2.uasset.
+[2019.05.01-17.10.02:749][  0]LoadErrors: Error: /Game/SideScrollerBP/Meshes/Bones/bone_pile2 : Can't find file for asset. /Game/SideScrollerBP/Meshes/Bones/Inset_000
+[2019.05.01-17.10.02:921][  0]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Meshes/Bones/Head_001'
+[2019.05.01-17.10.02:921][  0]LoadErrors: Failed to load /Game/SideScrollerBP/Meshes/Bones/Head_001.Head_001 Referenced by bone_pile2
+[2019.05.01-17.10.02:921][  0]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Meshes/Bones/Head_001' while loading NULL.
+[2019.05.01-17.10.02:922][  0]LoadErrors: Failed to load /Game/SideScrollerBP/Meshes/Bones/Head_001.Head_001 Referenced by bone_pile2
+[2019.05.01-17.10.02:922][  0]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Meshes/Bones/Inset_000'
+[2019.05.01-17.10.02:922][  0]LoadErrors: Failed to load /Game/SideScrollerBP/Meshes/Bones/Inset_000.Inset_000 Referenced by bone_pile2
+[2019.05.01-17.10.02:922][  0]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Meshes/Bones/Inset_000' while loading NULL.
+[2019.05.01-17.10.02:922][  0]LoadErrors: Failed to load /Game/SideScrollerBP/Meshes/Bones/Inset_000.Inset_000 Referenced by bone_pile2
+[2019.05.01-17.10.02:922][  0]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Meshes/Bones/Head_001'
+[2019.05.01-17.10.02:922][  0]LoadErrors: Failed to load /Game/SideScrollerBP/Meshes/Bones/Head_001.Head_001 Referenced by bone_pile2
+[2019.05.01-17.10.02:922][  0]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Meshes/Bones/Head_001' while loading NULL.
+[2019.05.01-17.10.02:922][  0]LoadErrors: Failed to load /Game/SideScrollerBP/Meshes/Bones/Head_001.Head_001 Referenced by bone_pile2
+[2019.05.01-17.10.02:922][  0]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Meshes/Bones/Inset_000'
+[2019.05.01-17.10.02:922][  0]LoadErrors: Failed to load /Game/SideScrollerBP/Meshes/Bones/Inset_000.Inset_000 Referenced by bone_pile2
+[2019.05.01-17.10.02:922][  0]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Meshes/Bones/Inset_000' while loading NULL.
+[2019.05.01-17.10.02:922][  0]LoadErrors: Failed to load /Game/SideScrollerBP/Meshes/Bones/Inset_000.Inset_000 Referenced by bone_pile2
+[2019.05.01-17.10.03:189][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave menu...
+[2019.05.01-17.10.06:693][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 41425552 while cooking SoundWave /Game/SideScrollerBP/Sounds/menu.menu.
+[2019.05.01-17.10.07:538][  0]LogAIModule: Creating AISystem for world MainMenuLevel
+[2019.05.01-17.10.07:707][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.01-17.10.07:745][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.01-17.10.07:745][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2019.05.01-17.10.07:745][  0]LogFileHelpers: Loading map 'MainMenuLevel' took 6.710
+[2019.05.01-17.10.07:856][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-17.10.07:863][  0]LogSourceControl: Attempting 'p4 client -o Capstone'
+[2019.05.01-17.10.07:863][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-17.10.07:868][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-17.10.07:874][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-17.10.07:880][  0]LogCollectionManager: Loaded 0 collections in 0.001681 seconds
+[2019.05.01-17.10.07:920][  0]LogFileCache: Scanning file cache for directory 'D:/hitec/Documents/CSI/Capstone/Saved/Collections/' took 0.01s
+[2019.05.01-17.10.07:920][  0]LogFileCache: Scanning file cache for directory 'D:/hitec/Documents/CSI/Capstone/Content/Developers/hitec/Collections/' took 0.01s
+[2019.05.01-17.10.07:920][  0]LogFileCache: Scanning file cache for directory 'D:/hitec/Documents/CSI/Capstone/Content/Collections/' took 0.01s
+[2019.05.01-17.10.07:920][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.01-17.10.07:928][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2665 classes and 631 folders.
+[2019.05.01-17.10.07:934][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.05.01-17.10.07:936][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:937][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:938][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:939][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:940][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:941][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:941][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:942][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:943][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:944][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:945][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:945][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:946][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:947][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:948][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:949][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:949][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:950][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:951][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:952][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:953][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:953][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:954][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:955][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:956][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.07:957][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-17.10.08:032][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.05.01-17.10.08:036][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.05.01-17.10.08:132][  0]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.01-17.10.08:133][  0]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.01-17.10.08:137][  0]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.01-17.10.08:209][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.05.01-17.10.08:351][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.05.01-17.10.08:351][  0]LogLoad: (Engine Initialization) Total time: 17.98 seconds
+[2019.05.01-17.10.08:351][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.01-17.10.08:430][  0]SourceControl: Client Capstone
+[2019.05.01-17.10.08:430][  0]SourceControl: Update 2019/02/18 15:21:08
+[2019.05.01-17.10.08:430][  0]SourceControl: Access 2019/05/01 12:09:18
+[2019.05.01-17.10.08:430][  0]SourceControl: Owner dylan
+[2019.05.01-17.10.08:430][  0]SourceControl: Host BoijangleV3
+[2019.05.01-17.10.08:430][  0]SourceControl: Description Created by dylan.
+
+[2019.05.01-17.10.08:430][  0]SourceControl: Root D:\hitec\Documents\CSI\Capstone
+[2019.05.01-17.10.08:430][  0]SourceControl: Options noallwrite noclobber nocompress unlocked nomodtime normdir
+[2019.05.01-17.10.08:430][  0]SourceControl: SubmitOptions submitunchanged
+[2019.05.01-17.10.08:430][  0]SourceControl: LineEnd local
+[2019.05.01-17.10.08:430][  0]SourceControl: View0 //depot/... //Capstone/...
+[2019.05.01-17.10.08:430][  0]SourceControl: Type writeable
+[2019.05.01-17.10.08:430][  0]SourceControl: Backup enable
+[2019.05.01-17.10.08:430][  0]SourceControl: specFormatted 
+[2019.05.01-17.10.08:430][  0]SourceControl: func client-FstatInfo
+[2019.05.01-17.10.08:430][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.01-17.10.08:439][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-17.10.09:393][ 11]LogAssetRegistry: Asset discovery search completed in 13.2822 seconds
+[2019.05.01-17.10.09:394][ 11]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.01-17.10.09:394][ 11]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2019.05.01-17.10.09:410][ 11]LogSlate: Took 0.000572 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.01-17.10.09:473][ 12]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.01-17.10.09:478][ 12]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/SideScrollerBP/Blueprints/UI/DeathMenu.DeathMenu
+[2019.05.01-17.10.09:976][ 12]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 117 classes and 0 folders.
+[2019.05.01-17.10.10:699][ 12]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.01-17.11.31:398][253]LogSlate: Window 'Message Log' being destroyed
+[2019.05.01-17.11.31:401][253]LogSlate: Window 'Message Log' being destroyed
+[2019.05.01-17.11.34:004][376]LogSourceControl: Attempting 'p4 fstat -Or D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/Maps/Sandbox.umap D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/Maps/Sandbox_BuiltData.uasset D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/Maps/Tutorial.umap D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/Maps/Tutorial_BuiltData.uasset'
+[2019.05.01-17.13.03:821][683]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2019.05.01-17.13.03:822][683]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.05.01-17.13.03:823][683]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2019.05.01-17.13.03:823][683]LogEditorActor: Deleted Actor: PostProcessVolume
+[2019.05.01-17.13.03:824][683]LogEditorActor: Deleted Actor: SkyLight
+[2019.05.01-17.13.03:824][683]LogEditorActor: Deleted Actor: AtmosphericFog
+[2019.05.01-17.13.03:825][683]LogEditorActor: Deleted Actor: ExponentialHeightFog
+[2019.05.01-17.13.03:826][683]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2019.05.01-17.13.03:827][683]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.13.03:827][683]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.13.03:828][683]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.13.03:828][683]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.13.03:829][683]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.13.03:829][683]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.13.03:830][683]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.13.03:830][683]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.13.03:831][683]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.13.03:831][683]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.13.03:832][683]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.13.03:832][683]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.13.03:833][683]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.13.03:833][683]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.13.03:834][683]LogEditorActor: Deleted Actor: WaterHazard_C
+[2019.05.01-17.13.03:834][683]LogEditorActor: Deleted Actor: WaterHazard_C
+[2019.05.01-17.13.03:835][683]LogEditorActor: Deleted Actor: WaterHazard_C
+[2019.05.01-17.13.03:835][683]LogEditorActor: Deleted Actor: WaterHazard_C
+[2019.05.01-17.13.03:836][683]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.13.03:836][683]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.13.03:837][683]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.13.03:838][683]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.13.03:838][683]LogEditorActor: Deleted Actor: SignTrigger_C
+[2019.05.01-17.13.03:839][683]LogEditorActor: Deleted Actor: AmbientSound
+[2019.05.01-17.13.03:839][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.13.03:840][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.13.03:840][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.13.03:841][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.13.03:842][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.13.03:842][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.13.03:843][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.13.03:843][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.13.03:844][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.13.03:845][683]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2019.05.01-17.13.03:845][683]LogEditorActor: Deleted Actor: RecastNavMesh
+[2019.05.01-17.13.03:846][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.13.03:847][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.13.03:847][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.13.03:848][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.13.03:849][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.13.03:849][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.13.03:885][683]LogEditorActor: Deleted 49 Actors (0.077 secs)
+[2019.05.01-17.13.03:929][686]LogSourceControl: Attempting 'p4 fstat -Or D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/MainMenuLevel.umap'
+[2019.05.01-17.13.10:394][ 73]LogEditorActor: Deleted Actor: RecastNavMesh
+[2019.05.01-17.13.10:426][ 73]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.05.01-17.13.12:158][175]LogSourceControl: Attempting 'p4 fstat -Or D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/MainMenuLevel.umap'
+[2019.05.01-17.13.13:260][175]LogSlate: Window 'Check Out Assets' being destroyed
+[2019.05.01-17.13.13:320][175]LogSourceControl: Attempting 'p4 fstat -Or D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/MainMenuLevel.umap'
+[2019.05.01-17.13.13:380][175]LogSourceControl: Attempting 'p4 edit D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/MainMenuLevel.umap'
+[2019.05.01-17.13.18:511][479]LogSourceControl: Attempting 'p4 fstat -Or D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/MainMenuLevel.umap'
+[2019.05.01-17.13.18:782][479]LogSavePackage: Moving '../../../../../../hitec/Documents/CSI/Capstone/Saved/MainMenuLevelB0C6707D43D32C8075F6529ACC7B5DD4.tmp' to '../../../../../../hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/MainMenuLevel.umap'
+[2019.05.01-17.13.18:858][479]LogSourceControl: Attempting 'p4 fstat -Or D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/MainMenuLevel_BuiltData.uasset'
+[2019.05.01-17.13.20:154][479]LogSlate: Window 'Check Out Assets' being destroyed
+[2019.05.01-17.13.20:213][479]LogSourceControl: Attempting 'p4 fstat -Or D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/MainMenuLevel_BuiltData.uasset'
+[2019.05.01-17.13.20:270][479]LogSourceControl: Attempting 'p4 edit D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/MainMenuLevel_BuiltData.uasset'
+[2019.05.01-17.13.20:471][479]LogSavePackage: Moving '../../../../../../hitec/Documents/CSI/Capstone/Saved/MainMenuLevel_BuiltDataF027EDD941BD882541FD4CB0F61DF4F4.tmp' to '../../../../../../hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/MainMenuLevel_BuiltData.uasset'
+[2019.05.01-17.13.23:571][638]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2019.05.01-17.13.23:571][638]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2019.05.01-17.13.23:571][638]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2019.05.01-17.13.23:571][638]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 512X512)
+[2019.05.01-17.13.23:571][638]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2019.05.01-17.13.23:571][638]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 512X512)
+[2019.05.01-17.13.23:571][638]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.05.01-17.13.23:571][638]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.05.01-17.13.23:571][638]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.05.01-17.13.23:571][638]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2019.05.01-17.13.23:571][638]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.05.01-17.13.23:571][638]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.05.01-17.13.23:571][638]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 512X256)
+[2019.05.01-17.13.23:571][638]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 512X256)
+[2019.05.01-17.13.23:648][638]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2019.05.01-17.13.24:162][638]LogAIModule: Creating AISystem for world Tutorial
+[2019.05.01-17.13.24:188][638]LogAssetEditorManager: Opening Asset editor for World /Game/SideScrollerBP/Blueprints/Maps/Tutorial.Tutorial
+[2019.05.01-17.13.24:222][638]Cmd: MAP LOAD FILE="../../../../../../hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/Maps/Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.01-17.13.24:223][638]LightingResults: New page: Lighting Build
+[2019.05.01-17.13.24:223][638]LoadErrors: New page: Loading map: Tutorial.umap
+[2019.05.01-17.13.24:223][638]MapCheck: New page: Map Check
+[2019.05.01-17.13.24:224][638]LightingResults: New page: Lighting Build
+[2019.05.01-17.13.24:271][638]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/SideScrollerBP/Blueprints/Rooms/Room1) is flushing async loading
+[2019.05.01-17.13.24:271][638]LogStreaming: Display: Flushing async loaders.
+[2019.05.01-17.13.24:512][638]LogStaticMesh: Building static mesh Room1_2...
+[2019.05.01-17.13.24:573][638]LogStaticMesh: Built static mesh [0.06s] /Game/SideScrollerBP/Meshes/Geometry/Room1_2.Room1_2
+[2019.05.01-17.13.24:829][638]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/SideScrollerBP/Blueprints/Rooms/RoomStart) is flushing async loading
+[2019.05.01-17.13.24:858][638]LogStaticMesh: Building static mesh RoomStart...
+[2019.05.01-17.13.24:900][638]LogStaticMesh: Built static mesh [0.04s] /Game/SideScrollerBP/Meshes/Geometry/RoomStart.RoomStart
+[2019.05.01-17.13.24:914][638]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/SideScrollerBP/Blueprints/Rooms/RoomStartSecret) is flushing async loading
+[2019.05.01-17.13.24:927][638]LogStaticMesh: Building static mesh RoomSecret...
+[2019.05.01-17.13.24:950][638]LogStaticMesh: Built static mesh [0.02s] /Game/SideScrollerBP/Meshes/Geometry/RoomSecret.RoomSecret
+[2019.05.01-17.13.24:956][638]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/SideScrollerBP/Blueprints/Rooms/Room2) is flushing async loading
+[2019.05.01-17.13.24:994][638]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 8X8)
+[2019.05.01-17.13.24:994][638]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 8X8)
+[2019.05.01-17.13.24:994][638]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 8X4)
+[2019.05.01-17.13.24:995][638]LogStaticMesh: Building static mesh Room2_Top...
+[2019.05.01-17.13.24:999][638]LogStaticMesh: Built static mesh [0.00s] /Game/SideScrollerBP/Meshes/Geometry/Room2_Top.Room2_Top
+[2019.05.01-17.13.25:004][638]LogStaticMesh: Building static mesh Room2...
+[2019.05.01-17.13.25:069][638]LogStaticMesh: Built static mesh [0.07s] /Game/SideScrollerBP/Meshes/Geometry/Room2.Room2
+[2019.05.01-17.13.25:105][638]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/SideScrollerBP/Blueprints/Rooms/RoomAnglerBoss) is flushing async loading
+[2019.05.01-17.13.25:386][638]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 8X8)
+[2019.05.01-17.13.25:386][638]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 8X8)
+[2019.05.01-17.13.25:386][638]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 8X4)
+[2019.05.01-17.13.25:525][638]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss1) is flushing async loading
+[2019.05.01-17.13.25:599][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss1_BuiltData'
+[2019.05.01-17.13.25:599][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss1_BuiltData' while loading NULL.
+[2019.05.01-17.13.25:603][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss1_BuiltData'
+[2019.05.01-17.13.25:603][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss1_BuiltData' while loading NULL.
+[2019.05.01-17.13.25:607][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss1_BuiltData'
+[2019.05.01-17.13.25:607][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss1_BuiltData' while loading NULL.
+[2019.05.01-17.13.25:607][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss1_BuiltData'
+[2019.05.01-17.13.25:607][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss1_BuiltData' while loading NULL.
+[2019.05.01-17.13.25:607][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss1_BuiltData'
+[2019.05.01-17.13.25:607][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss1_BuiltData' while loading NULL.
+[2019.05.01-17.13.25:608][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss1_BuiltData'
+[2019.05.01-17.13.25:608][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss1_BuiltData' while loading NULL.
+[2019.05.01-17.13.25:611][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss1_BuiltData'
+[2019.05.01-17.13.25:611][638]LoadErrors: Failed to load /Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss1_BuiltData.RoomMidBoss1_BuiltData Referenced by PersistentLevel
+[2019.05.01-17.13.25:611][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss1_BuiltData' while loading NULL.
+[2019.05.01-17.13.25:619][638]LogStaticMesh: Building static mesh RoomMidBoss1...
+[2019.05.01-17.13.25:650][638]LogStaticMesh: Built static mesh [0.03s] /Game/SideScrollerBP/Meshes/Geometry/RoomMidBoss1.RoomMidBoss1
+[2019.05.01-17.13.25:702][638]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss2) is flushing async loading
+[2019.05.01-17.13.25:707][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss2_BuiltData'
+[2019.05.01-17.13.25:708][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss2_BuiltData' while loading NULL.
+[2019.05.01-17.13.25:710][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss2_BuiltData'
+[2019.05.01-17.13.25:710][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss2_BuiltData' while loading NULL.
+[2019.05.01-17.13.25:713][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss2_BuiltData'
+[2019.05.01-17.13.25:713][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss2_BuiltData' while loading NULL.
+[2019.05.01-17.13.25:713][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss2_BuiltData'
+[2019.05.01-17.13.25:713][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss2_BuiltData' while loading NULL.
+[2019.05.01-17.13.25:714][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss2_BuiltData'
+[2019.05.01-17.13.25:714][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss2_BuiltData' while loading NULL.
+[2019.05.01-17.13.25:714][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss2_BuiltData'
+[2019.05.01-17.13.25:714][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss2_BuiltData' while loading NULL.
+[2019.05.01-17.13.25:717][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss2_BuiltData'
+[2019.05.01-17.13.25:717][638]LoadErrors: Failed to load /Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss2_BuiltData.RoomMidBoss2_BuiltData Referenced by PersistentLevel
+[2019.05.01-17.13.25:717][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss2_BuiltData' while loading NULL.
+[2019.05.01-17.13.25:721][638]LogStaticMesh: Building static mesh RoomMidBoss2...
+[2019.05.01-17.13.25:728][638]LogStaticMesh: Built static mesh [0.01s] /Game/SideScrollerBP/Meshes/Geometry/RoomMidBoss2.RoomMidBoss2
+[2019.05.01-17.13.25:743][638]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleMain) is flushing async loading
+[2019.05.01-17.13.25:831][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleMain_BuiltData'
+[2019.05.01-17.13.25:831][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleMain_BuiltData' while loading NULL.
+[2019.05.01-17.13.25:834][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleMain_BuiltData'
+[2019.05.01-17.13.25:834][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleMain_BuiltData' while loading NULL.
+[2019.05.01-17.13.25:837][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleMain_BuiltData'
+[2019.05.01-17.13.25:838][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleMain_BuiltData' while loading NULL.
+[2019.05.01-17.13.25:838][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleMain_BuiltData'
+[2019.05.01-17.13.25:838][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleMain_BuiltData' while loading NULL.
+[2019.05.01-17.13.25:838][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleMain_BuiltData'
+[2019.05.01-17.13.25:838][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleMain_BuiltData' while loading NULL.
+[2019.05.01-17.13.25:838][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleMain_BuiltData'
+[2019.05.01-17.13.25:838][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleMain_BuiltData' while loading NULL.
+[2019.05.01-17.13.25:847][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleMain_BuiltData'
+[2019.05.01-17.13.25:847][638]LoadErrors: Failed to load /Game/SideScrollerBP/Blueprints/Rooms/RoomCastleMain_BuiltData.RoomCastleMain_BuiltData Referenced by PersistentLevel
+[2019.05.01-17.13.25:848][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleMain_BuiltData' while loading NULL.
+[2019.05.01-17.13.25:866][638]LogStaticMesh: Building static mesh RoomCastleMain...
+[2019.05.01-17.13.25:900][638]LogStaticMesh: Built static mesh [0.03s] /Game/SideScrollerBP/Meshes/Geometry/RoomCastleMain.RoomCastleMain
+[2019.05.01-17.13.26:153][638]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss3) is flushing async loading
+[2019.05.01-17.13.26:167][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss3_BuiltData'
+[2019.05.01-17.13.26:167][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss3_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:170][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss3_BuiltData'
+[2019.05.01-17.13.26:170][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss3_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:175][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss3_BuiltData'
+[2019.05.01-17.13.26:175][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss3_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:175][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss3_BuiltData'
+[2019.05.01-17.13.26:175][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss3_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:175][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss3_BuiltData'
+[2019.05.01-17.13.26:176][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss3_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:176][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss3_BuiltData'
+[2019.05.01-17.13.26:176][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss3_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:181][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss3_BuiltData'
+[2019.05.01-17.13.26:181][638]LoadErrors: Failed to load /Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss3_BuiltData.RoomMidBoss3_BuiltData Referenced by PersistentLevel
+[2019.05.01-17.13.26:182][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBoss3_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:188][638]LogStaticMesh: Building static mesh RoomMidBoss3...
+[2019.05.01-17.13.26:205][638]LogStaticMesh: Built static mesh [0.02s] /Game/SideScrollerBP/Meshes/Geometry/RoomMidBoss3.RoomMidBoss3
+[2019.05.01-17.13.26:234][638]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBossConnector) is flushing async loading
+[2019.05.01-17.13.26:238][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBossConnector_BuiltData'
+[2019.05.01-17.13.26:238][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBossConnector_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:243][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBossConnector_BuiltData'
+[2019.05.01-17.13.26:243][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBossConnector_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:244][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBossConnector_BuiltData'
+[2019.05.01-17.13.26:244][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBossConnector_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:244][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBossConnector_BuiltData'
+[2019.05.01-17.13.26:244][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBossConnector_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:245][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBossConnector_BuiltData'
+[2019.05.01-17.13.26:245][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBossConnector_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:245][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBossConnector_BuiltData'
+[2019.05.01-17.13.26:245][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBossConnector_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:249][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBossConnector_BuiltData'
+[2019.05.01-17.13.26:249][638]LoadErrors: Failed to load /Game/SideScrollerBP/Blueprints/Rooms/RoomMidBossConnector_BuiltData.RoomMidBossConnector_BuiltData Referenced by PersistentLevel
+[2019.05.01-17.13.26:249][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomMidBossConnector_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:253][638]LogStaticMesh: Building static mesh RoomMidConnector...
+[2019.05.01-17.13.26:277][638]LogStaticMesh: Built static mesh [0.02s] /Game/SideScrollerBP/Meshes/Geometry/RoomMidConnector.RoomMidConnector
+[2019.05.01-17.13.26:294][638]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleSecret) is flushing async loading
+[2019.05.01-17.13.26:297][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleSecret_BuiltData'
+[2019.05.01-17.13.26:297][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleSecret_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:297][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleSecret_BuiltData'
+[2019.05.01-17.13.26:297][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleSecret_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:300][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleSecret_BuiltData'
+[2019.05.01-17.13.26:300][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleSecret_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:300][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleSecret_BuiltData'
+[2019.05.01-17.13.26:300][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleSecret_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:300][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleSecret_BuiltData'
+[2019.05.01-17.13.26:300][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleSecret_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:301][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleSecret_BuiltData'
+[2019.05.01-17.13.26:301][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleSecret_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:302][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleSecret_BuiltData'
+[2019.05.01-17.13.26:302][638]LoadErrors: Failed to load /Game/SideScrollerBP/Blueprints/Rooms/RoomCastleSecret_BuiltData.RoomCastleSecret_BuiltData Referenced by PersistentLevel
+[2019.05.01-17.13.26:302][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomCastleSecret_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:305][638]LogStaticMesh: Building static mesh RoomCastleSecret...
+[2019.05.01-17.13.26:312][638]LogStaticMesh: Built static mesh [0.01s] /Game/SideScrollerBP/Meshes/Geometry/RoomCastleSecret.RoomCastleSecret
+[2019.05.01-17.13.26:317][638]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/SideScrollerBP/Blueprints/Rooms/RoomSewerEnd1) is flushing async loading
+[2019.05.01-17.13.26:319][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomSewerEnd1_BuiltData'
+[2019.05.01-17.13.26:319][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomSewerEnd1_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:319][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomSewerEnd1_BuiltData'
+[2019.05.01-17.13.26:319][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomSewerEnd1_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:320][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomSewerEnd1_BuiltData'
+[2019.05.01-17.13.26:320][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomSewerEnd1_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:320][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomSewerEnd1_BuiltData'
+[2019.05.01-17.13.26:320][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomSewerEnd1_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:321][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomSewerEnd1_BuiltData'
+[2019.05.01-17.13.26:321][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomSewerEnd1_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:321][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomSewerEnd1_BuiltData'
+[2019.05.01-17.13.26:321][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomSewerEnd1_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:322][638]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/Rooms/RoomSewerEnd1_BuiltData'
+[2019.05.01-17.13.26:322][638]LoadErrors: Failed to load /Game/SideScrollerBP/Blueprints/Rooms/RoomSewerEnd1_BuiltData.RoomSewerEnd1_BuiltData Referenced by PersistentLevel
+[2019.05.01-17.13.26:322][638]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/Rooms/RoomSewerEnd1_BuiltData' while loading NULL.
+[2019.05.01-17.13.26:463][638]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.01-17.13.26:568][638]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.01-17.13.26:569][638]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.898ms to complete.
+[2019.05.01-17.13.26:569][638]LogFileHelpers: Loading map 'Tutorial' took 2.347
+[2019.05.01-17.13.30:890][892]LogSlate: Window 'Message Log' being destroyed
+[2019.05.01-17.13.30:899][892]LogSlate: Window 'Message Log' being destroyed
+[2019.05.01-17.14.04:456][905]LogEditorViewport: Clicking on Actor (context menu): SpawnPoint_C (SpawnPoint7)
+[2019.05.01-17.14.04:494][905]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-17.14.06:023][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RoomMidBoss6)
+[2019.05.01-17.14.07:571][ 84]Cmd: SELECT NONE
+[2019.05.01-17.14.20:331][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.14.22:610][929]Cmd: EDIT COPY
+[2019.05.01-17.14.22:864][929]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2019.05.01-17.14.22:865][929]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.05.01-17.14.22:865][929]LogEditorActor: Deleted Actor: SkyLight
+[2019.05.01-17.14.22:865][929]LogEditorActor: Deleted Actor: RoomTransitionTrigger_C
+[2019.05.01-17.14.22:865][929]LogEditorActor: Deleted Actor: RoomTransitionTrigger_C
+[2019.05.01-17.14.22:866][929]LogEditorActor: Deleted Actor: RoomTransitionTrigger_C
+[2019.05.01-17.14.22:866][929]LogEditorActor: Deleted Actor: RoomTransitionTrigger_C
+[2019.05.01-17.14.22:866][929]LogEditorActor: Deleted Actor: RoomTransitionTrigger_C
+[2019.05.01-17.14.22:866][929]LogEditorActor: Deleted Actor: RoomTransitionTrigger_C
+[2019.05.01-17.14.22:866][929]LogEditorActor: Deleted Actor: RoomTransitionTrigger_C
+[2019.05.01-17.14.22:867][929]LogEditorActor: Deleted Actor: RoomTransitionTrigger_C
+[2019.05.01-17.14.22:867][929]LogEditorActor: Deleted Actor: RoomTransitionTrigger_C
+[2019.05.01-17.14.22:867][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.22:867][929]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2019.05.01-17.14.22:867][929]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2019.05.01-17.14.22:868][929]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2019.05.01-17.14.22:868][929]LogEditorActor: Deleted Actor: AtmosphericFog
+[2019.05.01-17.14.22:868][929]LogEditorActor: Deleted Actor: PostProcessVolume
+[2019.05.01-17.14.22:868][929]LogEditorActor: Deleted Actor: ExponentialHeightFog
+[2019.05.01-17.14.22:868][929]LogEditorActor: Deleted Actor: MultiPointFollowCamera_C
+[2019.05.01-17.14.22:893][929]LogEditorActor: Deleted Actor: RoomTransitionTrigger_C
+[2019.05.01-17.14.22:894][929]LogEditorActor: Deleted Actor: RoomTransitionTrigger_C
+[2019.05.01-17.14.22:894][929]LogEditorActor: Deleted Actor: Groundskeeper_C
+[2019.05.01-17.14.22:894][929]LogEditorActor: Deleted Actor: GroundskeeperBoss_C
+[2019.05.01-17.14.22:894][929]LogEditorActor: Deleted Actor: Cloak_C
+[2019.05.01-17.14.22:895][929]LogEditorActor: Deleted Actor: SideScrollerCharacter_C
+[2019.05.01-17.14.22:928][929]LogEditorActor: Deleted 26 Actors (0.064 secs)
+[2019.05.01-17.14.23:207][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:207][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:207][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:208][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:208][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:208][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:208][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:208][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:208][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:209][929]LogEditorActor: Deleted Actor: WaterHazard_C
+[2019.05.01-17.14.23:209][929]LogEditorActor: Deleted Actor: WaterHazard_C
+[2019.05.01-17.14.23:209][929]LogEditorActor: Deleted Actor: WaterHazard_C
+[2019.05.01-17.14.23:209][929]LogEditorActor: Deleted Actor: WaterHazard_C
+[2019.05.01-17.14.23:210][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:210][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:210][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:210][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:211][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:211][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:211][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:211][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:211][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:212][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:212][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:212][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:212][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:213][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:213][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:213][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:213][929]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.14.23:214][929]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.14.23:214][929]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.14.23:214][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:214][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:214][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:215][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:215][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:215][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:215][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:215][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:216][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:216][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:216][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:216][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:216][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:217][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:217][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:217][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:217][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:218][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:218][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:218][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:218][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:218][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:219][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:219][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:219][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:219][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:219][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:220][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:220][929]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.14.23:220][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:220][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:221][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:221][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:221][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:221][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:221][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:222][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:222][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:222][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:222][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:222][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:223][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:223][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:223][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:223][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:223][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:224][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:224][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:224][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:224][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:225][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:225][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:225][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:225][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:225][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:226][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:226][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:226][929]LogEditorActor: Deleted Actor: BreakableWall_C
+[2019.05.01-17.14.23:226][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:226][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:227][929]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.14.23:227][929]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.14.23:227][929]LogEditorActor: Deleted Actor: CheckpointTrigger_C
+[2019.05.01-17.14.23:227][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:228][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:228][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:228][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:228][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:228][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:229][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:229][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:229][929]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.14.23:229][929]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.14.23:230][929]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.14.23:230][929]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.14.23:230][929]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.14.23:230][929]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.14.23:230][929]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.14.23:263][929]LogEditorActor: Deleted 110 Actors (0.057 secs)
+[2019.05.01-17.14.23:576][929]LogEditorActor: Deleted Actor: CheckpointTrigger_C
+[2019.05.01-17.14.23:576][929]LogEditorActor: Deleted Actor: PullCord_C
+[2019.05.01-17.14.23:576][929]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.14.23:576][929]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.14.23:577][929]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.14.23:577][929]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.14.23:577][929]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.14.23:577][929]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.14.23:577][929]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.14.23:578][929]LogEditorActor: Deleted Actor: Door_C
+[2019.05.01-17.14.23:578][929]LogEditorActor: Deleted Actor: BreakableWall_C
+[2019.05.01-17.14.23:578][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:578][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:578][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:579][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:579][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:579][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:579][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:580][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:580][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:580][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:580][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:580][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:581][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:581][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:581][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:581][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:581][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:582][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:582][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:582][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:582][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:582][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:583][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:583][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:583][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:583][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:583][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:584][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:584][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:584][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:584][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:584][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:585][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:585][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:585][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:585][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:585][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:585][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:586][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:586][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:586][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:586][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:586][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:587][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:587][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:587][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:587][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:587][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:588][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:588][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:588][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:588][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:588][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:589][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:589][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:589][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:589][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:589][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:590][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:590][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:590][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:590][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:591][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:591][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:591][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:591][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:591][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:591][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:592][929]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.14.23:592][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:592][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:592][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:592][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:593][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:593][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:593][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:593][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:593][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:593][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:594][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:594][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:594][929]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.14.23:594][929]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.14.23:595][929]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.14.23:595][929]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.14.23:595][929]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.14.23:595][929]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.14.23:596][929]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.14.23:628][929]LogEditorActor: Deleted 99 Actors (0.053 secs)
+[2019.05.01-17.14.23:758][929]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.14.23:758][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:759][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:759][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:759][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:759][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:759][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:760][929]LogEditorActor: Deleted Actor: WaterHazard_C
+[2019.05.01-17.14.23:760][929]LogEditorActor: Deleted Actor: WaterHazard_C
+[2019.05.01-17.14.23:760][929]LogEditorActor: Deleted Actor: WaterHazard_C
+[2019.05.01-17.14.23:760][929]LogEditorActor: Deleted Actor: WaterHazard_C
+[2019.05.01-17.14.23:760][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:761][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:761][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.23:761][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:761][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:761][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:762][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:762][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:762][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:762][929]LogEditorActor: Deleted Actor: SignTrigger_C
+[2019.05.01-17.14.23:762][929]LogEditorActor: Deleted Actor: SignTrigger_C
+[2019.05.01-17.14.23:763][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:763][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:763][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:763][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:763][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:764][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:764][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:764][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:764][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:764][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:765][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:765][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:765][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:765][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:765][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:765][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:766][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:766][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:766][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:766][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:767][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:767][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:767][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:767][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:767][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:767][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:768][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:768][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:768][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:768][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:768][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:769][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:769][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:769][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:769][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:769][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:770][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:770][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:770][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:770][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:770][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:771][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:771][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:771][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:771][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:771][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:772][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:772][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:772][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:772][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:773][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:773][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.23:773][929]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.14.23:773][929]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.14.23:802][929]LogEditorActor: Deleted 76 Actors (0.045 secs)
+[2019.05.01-17.14.24:312][929]LogEditorActor: Deleted Actor: PullCord_C
+[2019.05.01-17.14.24:312][929]LogEditorActor: Deleted Actor: SwingingChandelier_C
+[2019.05.01-17.14.24:313][929]LogEditorActor: Deleted Actor: SwingingChandelier_C
+[2019.05.01-17.14.24:313][929]LogEditorActor: Deleted Actor: SwingingChandelier_C
+[2019.05.01-17.14.24:314][929]LogEditorActor: Deleted Actor: PullCord_C
+[2019.05.01-17.14.24:315][929]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.14.24:315][929]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.14.24:316][929]LogEditorActor: Deleted Actor: PullCord_C
+[2019.05.01-17.14.24:316][929]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.14.24:317][929]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.14.24:317][929]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.14.24:318][929]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.14.24:318][929]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.14.24:319][929]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.14.24:319][929]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.14.24:319][929]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.14.24:319][929]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.14.24:320][929]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.14.24:320][929]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.14.24:320][929]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.14.24:321][929]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.14.24:321][929]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.14.24:321][929]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.14.24:322][929]LogEditorActor: Deleted Actor: Door_C
+[2019.05.01-17.14.24:322][929]LogEditorActor: Deleted Actor: Door_C
+[2019.05.01-17.14.24:322][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:323][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:323][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:323][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:323][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:324][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:324][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:324][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:325][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:325][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:325][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:326][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:326][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:326][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:326][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:327][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:327][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:327][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.24:328][929]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.14.24:328][929]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.14.24:328][929]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.14.24:328][929]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.14.24:329][929]LogEditorActor: Deleted Actor: Charge_Enemy_C
+[2019.05.01-17.14.24:329][929]LogEditorActor: Deleted Actor: Charge_Enemy_C
+[2019.05.01-17.14.24:329][929]LogEditorActor: Deleted Actor: Charge_Enemy_C
+[2019.05.01-17.14.24:330][929]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.14.24:330][929]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.14.24:330][929]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.14.24:372][929]LogEditorActor: Deleted 53 Actors (0.060 secs)
+[2019.05.01-17.14.24:516][929]LogEditorActor: Deleted Actor: BreakableWall_C
+[2019.05.01-17.14.24:516][929]LogEditorActor: Deleted Actor: BreakableWall_C
+[2019.05.01-17.14.24:516][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:517][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:517][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:517][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:517][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:518][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:518][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:518][929]LogEditorActor: Deleted Actor: SignTrigger_C
+[2019.05.01-17.14.24:519][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.24:519][929]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.14.24:519][929]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.14.24:519][929]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.14.24:520][929]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.14.24:548][929]LogEditorActor: Deleted 15 Actors (0.033 secs)
+[2019.05.01-17.14.24:706][929]LogEditorActor: Deleted Actor: LilFishSpawner_C
+[2019.05.01-17.14.24:707][929]LogEditorActor: Deleted Actor: LilFishSpawner_C
+[2019.05.01-17.14.24:707][929]LogEditorActor: Deleted Actor: PullCord_C
+[2019.05.01-17.14.24:707][929]LogEditorActor: Deleted Actor: BossWaterHazard_C
+[2019.05.01-17.14.24:707][929]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.14.24:708][929]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.14.24:708][929]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.14.24:708][929]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.14.24:708][929]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.14.24:708][929]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.14.24:709][929]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.14.24:709][929]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.14.24:709][929]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.14.24:709][929]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.14.24:709][929]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.14.24:709][929]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.14.24:710][929]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.14.24:710][929]LogEditorActor: Deleted Actor: AnglerFishBossV2_C
+[2019.05.01-17.14.24:744][929]LogEditorActor: Deleted 18 Actors (0.038 secs)
+[2019.05.01-17.14.24:922][929]LogEditorActor: Deleted Actor: LiftChandelier_C
+[2019.05.01-17.14.24:923][929]LogEditorActor: Deleted Actor: PullCord_C
+[2019.05.01-17.14.24:923][929]LogEditorActor: Deleted Actor: CoveredPullCord_C
+[2019.05.01-17.14.24:924][929]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.14.24:924][929]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.14.24:924][929]LogEditorActor: Deleted Actor: GroundskeeperBossFirstRoomEventManager_C
+[2019.05.01-17.14.24:924][929]LogEditorActor: Deleted Actor: DoorClosingTPPTT_C
+[2019.05.01-17.14.24:925][929]LogEditorActor: Deleted Actor: GroundskeeperBossDoor_C
+[2019.05.01-17.14.24:925][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:925][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:925][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.24:925][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.24:926][929]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.14.24:960][929]LogEditorActor: Deleted 13 Actors (0.037 secs)
+[2019.05.01-17.14.25:014][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.25:014][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.25:014][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.25:015][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.25:015][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.25:015][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.25:015][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.25:016][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.25:016][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.25:016][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.25:016][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.25:016][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.25:016][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.25:017][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.25:017][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.25:017][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.25:017][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.25:017][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.25:018][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.25:018][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.25:018][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.25:018][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.25:050][929]LogEditorActor: Deleted 22 Actors (0.036 secs)
+[2019.05.01-17.14.25:269][929]LogEditorActor: Deleted Actor: CoveredPullCord_C
+[2019.05.01-17.14.25:269][929]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.14.25:270][929]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.14.25:270][929]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.14.25:270][929]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.14.25:270][929]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.14.25:270][929]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.14.25:271][929]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.14.25:271][929]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.14.25:271][929]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.14.25:271][929]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.14.25:271][929]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.14.25:272][929]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.14.25:272][929]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.14.25:272][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.25:272][929]LogEditorActor: Deleted Actor: DoorClosingTPPTT_C
+[2019.05.01-17.14.25:272][929]LogEditorActor: Deleted Actor: CheckpointTrigger_C
+[2019.05.01-17.14.25:273][929]LogEditorActor: Deleted Actor: GroundskeeperBossDoor_C
+[2019.05.01-17.14.25:273][929]LogEditorActor: Deleted Actor: BreakableWall_C
+[2019.05.01-17.14.25:273][929]LogEditorActor: Deleted Actor: GroundskeeperBossEndRoomEventManager_C
+[2019.05.01-17.14.25:273][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.25:274][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.25:274][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.25:274][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.25:274][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.25:275][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.25:275][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.25:275][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.25:275][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.25:275][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.25:276][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.25:276][929]LogEditorActor: Deleted Actor: SignTrigger_C
+[2019.05.01-17.14.25:276][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.25:276][929]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.14.25:306][929]LogEditorActor: Deleted 34 Actors (0.037 secs)
+[2019.05.01-17.14.25:445][929]LogEditorActor: Deleted Actor: CoveredPullCord_C
+[2019.05.01-17.14.25:446][929]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.14.25:446][929]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.14.25:446][929]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.14.25:446][929]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.14.25:447][929]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.14.25:447][929]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.14.25:447][929]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.14.25:447][929]LogEditorActor: Deleted Actor: GroundskeeperBossRoomEventManager_C
+[2019.05.01-17.14.25:447][929]LogEditorActor: Deleted Actor: DoorClosingTPPTT_C
+[2019.05.01-17.14.25:448][929]LogEditorActor: Deleted Actor: GroundskeeperBossDoor_C
+[2019.05.01-17.14.25:448][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.25:448][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.25:448][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.25:448][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.25:449][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.25:483][929]LogEditorActor: Deleted 16 Actors (0.039 secs)
+[2019.05.01-17.14.25:522][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.25:522][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.25:523][929]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.14.25:523][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.14.25:556][929]LogEditorActor: Deleted 4 Actors (0.034 secs)
+[2019.05.01-17.14.25:577][929]LogEditorActor: Deleted Actor: CheckpointTrigger_C
+[2019.05.01-17.14.25:610][929]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.05.01-17.14.27:052][  7]LogSourceControl: Attempting 'p4 fstat -Or D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/CloakAbilitySelector.uasset D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/CloakHUD.uasset D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/Cursor.uasset D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/HUD.uasset D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/SideScrollerSaveGame.uasset D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UtilityFunctions.uasset D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UtilityMacros.uasset'
+[2019.05.01-17.14.28:416][ 72]PIE: Warning: Constraint in '/Engine/Transient.World_5:PersistentLevel.GroundsKeeperPawn_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2019.05.01-17.14.29:374][111]LogSourceControl: Attempting 'p4 fstat -Or D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/CharacterSelect.uasset D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/CloakPawn.uasset D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/CreditsMenu.uasset D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/DeathMenu.uasset D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/GroundsKeeperPawn.uasset D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/HUDVampireAndCloak.uasset D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/InputSettingsMenu.uasset D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/LoadGameMenu.uasset D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/MainMenu.uasset D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/PauseMenu.uasset D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/PlayerSelectOptions.uasset D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/SettingsMenu.uasset D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/VampireAndCloak.uasset D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/VampireCloak.uasset D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/VampirePawn.uasset'
+[2019.05.01-17.14.30:869][169]LogAIModule: Creating AISystem for world MainMenuLevel
+[2019.05.01-17.14.30:889][169]LogAssetEditorManager: Opening Asset editor for World /Game/SideScrollerBP/Blueprints/UI/MainMenuLevel.MainMenuLevel
+[2019.05.01-17.14.30:919][169]Cmd: MAP LOAD FILE="../../../../../../hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.01-17.14.30:919][169]LightingResults: New page: Lighting Build
+[2019.05.01-17.14.30:920][169]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2019.05.01-17.14.30:932][169]MapCheck: New page: Map Check
+[2019.05.01-17.14.30:932][169]LightingResults: New page: Lighting Build
+[2019.05.01-17.14.31:111][169]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.01-17.14.31:164][169]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.01-17.14.31:165][169]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.094ms to complete.
+[2019.05.01-17.14.31:165][169]LogFileHelpers: Loading map 'MainMenuLevel' took 0.246
+[2019.05.01-17.14.33:742][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.14.35:615][431]Cmd: EDIT PASTE
+[2019.05.01-17.14.37:468][431]LogSourceControl: Attempting 'p4 fstat -Or D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/MainMenuLevel.umap'
+[2019.05.01-17.14.51:544][187]LogSourceControl: Attempting 'p4 fstat -Or D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/MainMenuLevel.umap'
+[2019.05.01-17.14.51:573][187]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-17.14.52:612][187]LogSavePackage: Moving '../../../../../../hitec/Documents/CSI/Capstone/Saved/MainMenuLevel3FED48484E50EF2BBAFA5C85C439661F.tmp' to '../../../../../../hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/MainMenuLevel.umap'
+[2019.05.01-17.14.52:688][187]LogSourceControl: Attempting 'p4 fstat -Or D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/MainMenuLevel_BuiltData.uasset'
+[2019.05.01-17.14.52:874][187]LogSavePackage: Moving '../../../../../../hitec/Documents/CSI/Capstone/Saved/MainMenuLevel_BuiltData238D220043C946FF2002C7B19E22DBA2.tmp' to '../../../../../../hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/MainMenuLevel_BuiltData.uasset'
+[2019.05.01-17.14.55:958][370]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.05.01-17.15.19:519][635]LogEditorViewport: Clicking on Actor (LMB): GroundsKeeperPawn_C (GroundsKeeperPawn)
+[2019.05.01-17.15.26:401][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.15.31:377][327]LogEditorActor: Deleted Actor: Cloak_C
+[2019.05.01-17.15.31:378][327]LogEditorActor: Deleted Actor: SideScrollerCharacter_C
+[2019.05.01-17.15.31:417][327]LogEditorActor: Deleted 2 Actors (0.087 secs)
+[2019.05.01-17.15.31:452][329]LogSourceControl: Attempting 'p4 fstat -Or D:/hitec/Documents/CSI/Capstone/Content/SideScrollerBP/Blueprints/UI/MainMenuLevel.umap'
+[2019.05.01-17.15.46:089][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RoomStart2)
+[2019.05.01-17.16.05:823][340]Cmd: SELECT NONE
+[2019.05.01-17.24.53:024][540]LogSavePackage: Moving '../../../../../../hitec/Documents/CSI/Capstone/Saved/MainMenuLevel_Auto12F92086C44F07C2AA9C6D2B1BF24BAD5.tmp' to '../../../../../../hitec/Documents/CSI/Capstone/Saved/Autosaves/Game/SideScrollerBP/Blueprints/UI/MainMenuLevel_Auto1.umap'
+[2019.05.01-17.24.53:032][540]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Blueprints/UI/MainMenuLevel' took 1.183
+[2019.05.01-17.24.53:032][540]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.183
+[2019.05.01-17.31.03:928][167]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-17.31.15:558][660]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.15:559][660]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.15:559][660]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.15:589][660]LogEditorActor: Deleted 3 Actors (0.068 secs)
+[2019.05.01-17.31.27:997][217]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.31.27:998][217]LogEditorActor: Deleted Actor: WaterHazard_C
+[2019.05.01-17.31.27:998][217]LogEditorActor: Deleted Actor: WaterHazard_C
+[2019.05.01-17.31.27:999][217]LogEditorActor: Deleted Actor: WaterHazard_C
+[2019.05.01-17.31.27:999][217]LogEditorActor: Deleted Actor: WaterHazard_C
+[2019.05.01-17.31.28:000][217]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.28:000][217]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.28:001][217]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.28:002][217]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.28:002][217]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.28:003][217]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.28:003][217]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.28:004][217]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.28:004][217]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.28:005][217]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.28:005][217]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.28:006][217]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.28:006][217]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.28:007][217]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.28:008][217]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.28:008][217]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.28:009][217]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.31.28:009][217]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.31.28:010][217]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.31.28:010][217]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.31.28:011][217]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.31.28:011][217]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.31.28:012][217]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.31.28:012][217]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.31.28:013][217]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.31.28:014][217]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.31.28:015][217]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.31.28:016][217]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.31.28:016][217]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.31.28:017][217]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.31.28:018][217]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.31.28:019][217]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.31.28:019][217]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.31.28:020][217]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.31.28:021][217]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.31.28:022][217]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.31.28:023][217]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.31.28:023][217]LogEditorActor: Deleted Actor: Rat_C
+[2019.05.01-17.31.28:075][217]LogEditorActor: Deleted 43 Actors (0.123 secs)
+[2019.05.01-17.31.35:224][577]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.35:225][577]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.35:226][577]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.35:226][577]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.35:227][577]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.35:228][577]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.35:229][577]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.35:229][577]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.35:230][577]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.35:230][577]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.35:231][577]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.35:232][577]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.35:232][577]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.35:233][577]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.35:234][577]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.35:235][577]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.35:235][577]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.35:236][577]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.35:236][577]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.35:237][577]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.35:238][577]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.31.35:238][577]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.31.35:274][577]LogEditorActor: Deleted 22 Actors (0.087 secs)
+[2019.05.01-17.31.40:942][894]LogEditorActor: Deleted Actor: RoomTransitionTrigger_C
+[2019.05.01-17.31.40:943][894]LogEditorActor: Deleted Actor: RoomTransitionTrigger_C
+[2019.05.01-17.31.40:944][894]LogEditorActor: Deleted Actor: RoomTransitionTrigger_C
+[2019.05.01-17.31.40:946][894]LogEditorActor: Deleted Actor: RoomTransitionTrigger_C
+[2019.05.01-17.31.40:972][894]LogEditorActor: Deleted 4 Actors (0.060 secs)
+[2019.05.01-17.31.48:705][340]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.31.48:706][340]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.31.48:707][340]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.31.48:707][340]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.31.48:708][340]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.31.48:708][340]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.31.48:709][340]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.31.48:709][340]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.31.48:710][340]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.31.48:711][340]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.31.48:711][340]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.31.48:712][340]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.31.48:712][340]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.31.48:713][340]LogEditorActor: Deleted Actor: BossWaterHazard_C
+[2019.05.01-17.31.48:714][340]LogEditorActor: Deleted Actor: AnglerFishBossV2_C
+[2019.05.01-17.31.48:748][340]LogEditorActor: Deleted 15 Actors (0.076 secs)
+[2019.05.01-17.31.54:577][664]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.31.54:578][664]LogEditorActor: Deleted Actor: PullCord_C
+[2019.05.01-17.31.54:579][664]LogEditorActor: Deleted Actor: PullCord_C
+[2019.05.01-17.31.54:580][664]LogEditorActor: Deleted Actor: PullCord_C
+[2019.05.01-17.31.54:581][664]LogEditorActor: Deleted Actor: PullCord_C
+[2019.05.01-17.31.54:582][664]LogEditorActor: Deleted Actor: PullCord_C
+[2019.05.01-17.31.54:619][664]LogEditorActor: Deleted 6 Actors (0.069 secs)
+[2019.05.01-17.31.58:605][895]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.31.58:606][895]LogEditorActor: Deleted Actor: LiftChandelier_C
+[2019.05.01-17.31.58:639][895]LogEditorActor: Deleted 2 Actors (0.059 secs)
+[2019.05.01-17.32.06:744][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:745][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:745][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:746][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:747][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:748][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:748][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:749][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:750][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:751][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:752][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:753][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:753][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:754][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:755][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:756][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:757][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:758][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:758][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:759][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:760][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:761][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:762][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:763][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:764][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:765][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:766][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:767][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:768][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:768][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:769][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:770][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:771][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:771][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:772][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:773][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:774][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:774][360]LogEditorActor: Deleted Actor: BackgroundSpotLightWall_C
+[2019.05.01-17.32.06:805][360]LogEditorActor: Deleted 38 Actors (0.095 secs)
+[2019.05.01-17.33.22:376][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.33.32:509][268]Cmd: DELETE
+[2019.05.01-17.33.32:509][268]Cmd: ACTOR DELETE
+[2019.05.01-17.33.32:532][268]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.33.32:533][268]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.33.32:533][268]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.33.32:534][268]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.33.32:535][268]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.33.32:536][268]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.33.32:537][268]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.33.32:537][268]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.33.32:538][268]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.33.32:539][268]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.33.32:539][268]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.33.32:569][268]LogEditorActor: Deleted 11 Actors (0.059 secs)
+[2019.05.01-17.33.34:143][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.33.41:690][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bone_pile146)
+[2019.05.01-17.33.44:038][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.33.50:822][315]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RoomStart2)
+[2019.05.01-17.33.52:190][393]Cmd: SELECT NONE
+[2019.05.01-17.33.56:708][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.34.16:413][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.34.26:263][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.34.46:516][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bone_pile237)
+[2019.05.01-17.34.49:322][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.35.04:209][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.35.11:090][914]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RoomStart2)
+[2019.05.01-17.35.24:366][641]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RoomStart2)
+[2019.05.01-17.35.26:614][763]Cmd: SELECT NONE
+[2019.05.01-17.35.27:706][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.35.57:397][495]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RoomStart2)
+[2019.05.01-17.36.11:277][296]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Room1_3)
+[2019.05.01-17.36.20:249][797]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RoomStart2)
+[2019.05.01-17.36.22:464][916]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (bone_pile238)
+[2019.05.01-17.36.45:404][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.36.46:926][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:927][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:928][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:929][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:929][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:930][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:931][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:931][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:932][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:933][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:933][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:934][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:935][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:935][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:936][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:937][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:937][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:938][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:939][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:940][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:940][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:941][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:942][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:943][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:943][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:944][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:945][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:945][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:946][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:947][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:947][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:948][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:949][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:949][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:950][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:951][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:952][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:952][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:953][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:954][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:954][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:955][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:956][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:957][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:957][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:958][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:959][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:960][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:960][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:961][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:962][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:963][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:963][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:964][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:965][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:965][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:966][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:967][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:967][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:968][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:969][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:970][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:970][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:971][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:972][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:973][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:973][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:974][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:975][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:975][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:976][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:977][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:978][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:978][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:979][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:980][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:980][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:981][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:982][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:983][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:983][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:984][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:985][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:986][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.46:986][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.36.47:021][308]LogEditorActor: Deleted 85 Actors (0.130 secs)
+[2019.05.01-17.36.55:983][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.37.01:081][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.37.02:822][236]LogEditorActor: Deleted Actor: Brush
+[2019.05.01-17.37.02:858][236]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2019.05.01-17.37.05:838][412]LogEditorActor: Deleted Actor: BreakableWall_C
+[2019.05.01-17.37.05:839][412]LogEditorActor: Deleted Actor: BreakableWall_C
+[2019.05.01-17.37.05:840][412]LogEditorActor: Deleted Actor: BreakableWall_C
+[2019.05.01-17.37.05:840][412]LogEditorActor: Deleted Actor: BreakableWall_C
+[2019.05.01-17.37.05:841][412]LogEditorActor: Deleted Actor: BreakableWall_C
+[2019.05.01-17.37.05:873][412]LogEditorActor: Deleted 5 Actors (0.053 secs)
+[2019.05.01-17.37.11:932][760]LogEditorActor: Deleted Actor: Charge_Enemy_C
+[2019.05.01-17.37.11:933][760]LogEditorActor: Deleted Actor: Charge_Enemy_C
+[2019.05.01-17.37.11:935][760]LogEditorActor: Deleted Actor: Charge_Enemy_C
+[2019.05.01-17.37.11:963][760]LogEditorActor: Deleted 3 Actors (0.048 secs)
+[2019.05.01-17.37.15:784][987]LogEditorActor: Deleted Actor: CheckpointTrigger_C
+[2019.05.01-17.37.15:785][987]LogEditorActor: Deleted Actor: CheckpointTrigger_C
+[2019.05.01-17.37.15:786][987]LogEditorActor: Deleted Actor: CheckpointTrigger_C
+[2019.05.01-17.37.15:787][987]LogEditorActor: Deleted Actor: CheckpointTrigger_C
+[2019.05.01-17.37.15:820][987]LogEditorActor: Deleted 4 Actors (0.054 secs)
+[2019.05.01-17.37.19:002][176]LogEditorActor: Deleted Actor: CoveredPullCord_C
+[2019.05.01-17.37.19:003][176]LogEditorActor: Deleted Actor: CoveredPullCord_C
+[2019.05.01-17.37.19:004][176]LogEditorActor: Deleted Actor: CoveredPullCord_C
+[2019.05.01-17.37.19:039][176]LogEditorActor: Deleted 3 Actors (0.054 secs)
+[2019.05.01-17.37.22:134][360]LogEditorActor: Deleted Actor: Door_C
+[2019.05.01-17.37.22:135][360]LogEditorActor: Deleted Actor: Door_C
+[2019.05.01-17.37.22:136][360]LogEditorActor: Deleted Actor: Door_C
+[2019.05.01-17.37.22:137][360]LogEditorActor: Deleted Actor: DoorClosingTPPTT_C
+[2019.05.01-17.37.22:137][360]LogEditorActor: Deleted Actor: DoorClosingTPPTT_C
+[2019.05.01-17.37.22:138][360]LogEditorActor: Deleted Actor: DoorClosingTPPTT_C
+[2019.05.01-17.37.22:176][360]LogEditorActor: Deleted 6 Actors (0.058 secs)
+[2019.05.01-17.37.25:749][572]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.37.25:750][572]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.37.25:751][572]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.37.25:752][572]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.37.25:753][572]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.37.25:754][572]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.37.25:755][572]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.37.25:755][572]LogEditorActor: Deleted Actor: FlyingEnemy_C
+[2019.05.01-17.37.25:790][572]LogEditorActor: Deleted 8 Actors (0.055 secs)
+[2019.05.01-17.37.31:488][911]LogEditorActor: Deleted Actor: GroundskeeperBoss_C
+[2019.05.01-17.37.31:489][911]LogEditorActor: Deleted Actor: GroundskeeperBossDoor_C
+[2019.05.01-17.37.31:490][911]LogEditorActor: Deleted Actor: GroundskeeperBossDoor_C
+[2019.05.01-17.37.31:491][911]LogEditorActor: Deleted Actor: GroundskeeperBossDoor_C
+[2019.05.01-17.37.31:522][911]LogEditorActor: Deleted 4 Actors (0.049 secs)
+[2019.05.01-17.37.49:861][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.37.51:600][105]LogEditorActor: Deleted Actor: Groundskeeper_C
+[2019.05.01-17.37.51:601][105]LogEditorActor: Deleted Actor: GroundskeeperBossFirstRoomEventManager_C
+[2019.05.01-17.37.51:602][105]LogEditorActor: Deleted Actor: GroundskeeperBossEndRoomEventManager_C
+[2019.05.01-17.37.51:603][105]LogEditorActor: Deleted Actor: GroundskeeperBossRoomEventManager_C
+[2019.05.01-17.37.51:640][105]LogEditorActor: Deleted 4 Actors (0.056 secs)
+[2019.05.01-17.37.57:347][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.38.00:794][646]LogEditorActor: Deleted Actor: LilFishSpawner_C
+[2019.05.01-17.38.00:794][646]LogEditorActor: Deleted Actor: LilFishSpawner_C
+[2019.05.01-17.38.00:795][646]LogEditorActor: Deleted Actor: MultiPointFollowCamera_C
+[2019.05.01-17.38.00:826][646]LogEditorActor: Deleted 3 Actors (0.044 secs)
+[2019.05.01-17.38.12:192][322]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.38.12:193][322]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.38.12:194][322]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.38.12:195][322]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.38.12:196][322]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.38.12:197][322]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.38.12:197][322]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.38.12:198][322]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.38.12:199][322]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.38.12:200][322]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.38.12:200][322]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.38.12:201][322]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.38.12:202][322]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.38.12:203][322]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.38.12:204][322]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.38.12:205][322]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.38.12:206][322]LogEditorActor: Deleted Actor: OneWayPlatform_C
+[2019.05.01-17.38.12:237][322]LogEditorActor: Deleted 17 Actors (0.062 secs)
+[2019.05.01-17.38.33:005][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.38.41:217][ 51]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.38.41:219][ 51]LogEditorActor: Deleted Actor: PullCord_C
+[2019.05.01-17.38.41:252][ 51]LogEditorActor: Deleted 2 Actors (0.051 secs)
+[2019.05.01-17.39.24:268][515]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RoomStart2)
+[2019.05.01-17.39.36:294][197]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RoomStart2)
+[2019.05.01-17.39.45:407][712]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RoomStart2)
+[2019.05.01-17.39.56:068][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.39.57:864][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:864][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:865][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:866][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:866][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:867][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:868][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:868][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:869][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:870][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:870][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:871][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:872][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:873][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:873][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:874][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:875][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:875][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:876][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:876][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:877][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:878][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:878][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:879][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:879][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:880][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:881][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:881][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:882][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:883][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:883][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:884][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:885][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:885][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:886][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:886][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:887][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:888][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:889][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:890][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:890][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:891][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:892][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:892][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:893][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:894][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:894][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:895][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:896][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:896][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:897][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:898][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:898][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:899][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:899][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:900][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:901][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:901][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:902][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:902][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:903][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:903][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:904][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:905][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:906][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:906][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:907][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.39.57:939][419]LogEditorActor: Deleted 67 Actors (0.096 secs)
+[2019.05.01-17.40.05:721][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.40.13:778][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.40.17:253][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.40.17:254][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.40.17:255][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.40.17:257][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.40.17:258][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.40.17:259][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.40.17:259][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.40.17:260][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.40.17:261][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.40.17:262][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.40.17:290][545]LogEditorActor: Deleted 10 Actors (0.048 secs)
+[2019.05.01-17.40.26:064][ 69]LogEditorActor: Deleted Actor: RoomTransitionTrigger_C
+[2019.05.01-17.40.26:065][ 69]LogEditorActor: Deleted Actor: RoomTransitionTrigger_C
+[2019.05.01-17.40.26:065][ 69]LogEditorActor: Deleted Actor: RoomTransitionTrigger_C
+[2019.05.01-17.40.26:066][ 69]LogEditorActor: Deleted Actor: RoomTransitionTrigger_C
+[2019.05.01-17.40.26:067][ 69]LogEditorActor: Deleted Actor: RoomTransitionTrigger_C
+[2019.05.01-17.40.26:067][ 69]LogEditorActor: Deleted Actor: RoomTransitionTrigger_C
+[2019.05.01-17.40.26:068][ 69]LogEditorActor: Deleted Actor: RoomTransitionTrigger_C
+[2019.05.01-17.40.26:098][ 69]LogEditorActor: Deleted 7 Actors (0.045 secs)
+[2019.05.01-17.40.29:753][287]LogEditorActor: Deleted Actor: SignTrigger_C
+[2019.05.01-17.40.29:754][287]LogEditorActor: Deleted Actor: SignTrigger_C
+[2019.05.01-17.40.29:788][287]LogEditorActor: Deleted 2 Actors (0.043 secs)
+[2019.05.01-17.40.32:098][426]Cmd: TRANSACTION UNDO
+[2019.05.01-17.40.32:098][426]LogEditorTransaction: Undo Delete selection
+[2019.05.01-17.40.33:788][522]LogEditorActor: Deleted Actor: SignTrigger_C
+[2019.05.01-17.40.33:789][522]LogEditorActor: Deleted Actor: SignTrigger_C
+[2019.05.01-17.40.33:820][522]LogEditorActor: Deleted 2 Actors (0.040 secs)
+[2019.05.01-17.40.39:697][873]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.40.39:698][873]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.40.39:699][873]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.40.39:699][873]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.40.39:700][873]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.40.39:701][873]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.40.39:702][873]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.40.39:702][873]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.40.39:703][873]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.40.39:704][873]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.40.39:704][873]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.40.39:705][873]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.40.39:706][873]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.40.39:707][873]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.40.39:708][873]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2019.05.01-17.40.39:709][873]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.40.39:709][873]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.40.39:710][873]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.40.39:711][873]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.40.39:712][873]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.40.39:712][873]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.40.39:713][873]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.40.39:714][873]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.40.39:715][873]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.40.39:715][873]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.40.39:716][873]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.40.39:717][873]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.40.39:718][873]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.40.39:718][873]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.40.39:719][873]LogEditorActor: Deleted Actor: SpikeHazard_C
+[2019.05.01-17.40.39:748][873]LogEditorActor: Deleted 30 Actors (0.065 secs)
+[2019.05.01-17.40.46:016][247]LogEditorActor: Deleted Actor: SwingingChandelier_C
+[2019.05.01-17.40.46:017][247]LogEditorActor: Deleted Actor: SwingingChandelier_C
+[2019.05.01-17.40.46:017][247]LogEditorActor: Deleted Actor: SwingingChandelier_C
+[2019.05.01-17.40.46:048][247]LogEditorActor: Deleted 3 Actors (0.041 secs)
+[2019.05.01-17.40.55:186][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock96)
+[2019.05.01-17.40.55:737][819]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (rock100)
+[2019.05.01-17.40.56:350][853]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (rock170)
+[2019.05.01-17.40.57:760][935]Cmd: DELETE
+[2019.05.01-17.40.57:761][935]Cmd: ACTOR DELETE
+[2019.05.01-17.40.57:768][935]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.40.57:768][935]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.40.57:769][935]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.40.57:800][935]LogEditorActor: Deleted 3 Actors (0.039 secs)
+[2019.05.01-17.41.00:027][ 69]Cmd: TRANSACTION UNDO
+[2019.05.01-17.41.00:027][ 69]LogEditorTransaction: Undo Delete Actors
+[2019.05.01-17.41.01:702][159]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2019.05.01-17.41.02:211][187]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (rock96)
+[2019.05.01-17.41.02:449][200]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (rock100)
+[2019.05.01-17.41.03:112][238]Cmd: DELETE
+[2019.05.01-17.41.03:112][238]Cmd: ACTOR DELETE
+[2019.05.01-17.41.03:119][238]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2019.05.01-17.41.03:120][238]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.41.03:120][238]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.41.03:149][238]LogEditorActor: Deleted 3 Actors (0.037 secs)
+[2019.05.01-17.41.04:267][305]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (bone_pile146)
+[2019.05.01-17.41.06:046][408]Cmd: DELETE
+[2019.05.01-17.41.06:046][408]Cmd: ACTOR DELETE
+[2019.05.01-17.41.06:052][408]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.41.06:083][408]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2019.05.01-17.41.09:685][623]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (bone_pile140)
+[2019.05.01-17.41.10:275][654]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (bone_pile144)
+[2019.05.01-17.41.10:786][682]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (bone_pile145)
+[2019.05.01-17.41.11:563][726]Cmd: DELETE
+[2019.05.01-17.41.11:563][726]Cmd: ACTOR DELETE
+[2019.05.01-17.41.11:570][726]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.41.11:571][726]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.41.11:572][726]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.01-17.41.11:604][726]LogEditorActor: Deleted 3 Actors (0.041 secs)
+[2019.05.01-17.41.37:897][300]LogEditorViewport: Clicking on Actor (LMB): CloakPawn_C (CloakPawn)
+[2019.05.01-17.41.41:822][533]LogEditorViewport: Clicking on Actor (LMB): VampirePawn_C (VampirePawn)
+[2019.05.01-17.41.47:115][848]Cmd: TRANSACTION UNDO
+[2019.05.01-17.41.47:115][848]LogEditorTransaction: Undo Move Actors
+[2019.05.01-17.42.14:065][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-17.42.14:455][457]LogSavePackage: Moving '../../../../../../hitec/Documents/CSI/Capstone/Saved/MainMenuLevel_Auto2DD775B014FC0382D7DDBC7ACB6CD2E82.tmp' to '../../../../../../hitec/Documents/CSI/Capstone/Saved/Autosaves/Game/SideScrollerBP/Blueprints/UI/MainMenuLevel_Auto2.umap'
+[2019.05.01-17.42.14:460][457]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Blueprints/UI/MainMenuLevel' took 0.361
+[2019.05.01-17.42.14:460][457]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.361
+[2019.05.01-17.42.32:706][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.42.36:617][768]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2019.05.01-17.42.36:618][768]LogEditorActor: Deleted Actor: RecastNavMesh
+[2019.05.01-17.42.36:652][768]LogEditorActor: Deleted 2 Actors (0.044 secs)
+[2019.05.01-17.42.39:496][937]LogEditorActor: Deleted Actor: RecastNavMesh
+[2019.05.01-17.42.39:528][937]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2019.05.01-17.42.43:773][192]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume2)
+[2019.05.01-17.42.46:465][346]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume2)
+[2019.05.01-17.42.47:592][410]LogEditorViewport: Clicking Background
+[2019.05.01-17.43.38:896][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.43.38:964][325]MapCheck: New page: Map Check
+[2019.05.01-17.43.38:988][325]Cmd: MAP REBUILD ALLVISIBLE
+[2019.05.01-17.43.38:993][325]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.05.01-17.43.39:356][325]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2019.05.01-17.43.39:365][325]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Main, compiling. 
+[2019.05.01-17.43.39:372][325]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.01-17.43.39:372][325]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.01-17.43.39:372][325]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Main, compiling. 
+[2019.05.01-17.43.39:377][325]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.05.01-17.43.39:384][325]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Cloak_Accent, compiling. 
+[2019.05.01-17.43.39:391][325]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Vamp_Accent, compiling. 
+[2019.05.01-17.43.39:397][325]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.01-17.43.39:398][325]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.01-17.43.39:398][325]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.01-17.43.39:398][325]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.01-17.43.39:398][325]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Vamp_Head, compiling. 
+[2019.05.01-17.43.39:404][325]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy SewerWaterMaterial, compiling. 
+[2019.05.01-17.43.39:412][325]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ParticleMaterial, compiling. 
+[2019.05.01-17.43.39:421][325]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy EmissiveParticleMaterial, compiling. 
+[2019.05.01-17.43.40:062][325]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.01-17.43.40:062][325]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.01-17.43.40:062][325]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.01-17.43.40:062][325]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.01-17.43.40:062][325]TextureStreamingBuild: Display: Compiling optional shaders took 0.712 seconds.
+[2019.05.01-17.43.40:072][325]LogLevel: Display: Export Material TexCoord Scales took 0.010 seconds.
+[2019.05.01-17.43.40:227][325]TextureStreamingBuild: Display: Build Texture Streaming took 0.155 seconds.
+[2019.05.01-17.43.40:259][325]LightingResults: New page: Lighting Build - May 1, 2019, 7:43:40 AM
+[2019.05.01-17.43.40:289][325]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.05.01-17.43.40:520][325]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.05.01-17.43.40:530][325]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.05.01-17.43.41:037][325]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.05.01-17.43.41:037][325]LogSwarmInterface: [TryOpenConnection] Local Process ID is 54500
+[2019.05.01-17.43.45:979][325]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.05.01-17.43.45:979][325]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.05.01-17.43.45:980][325]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.05.01-17.43.45:980][325]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.05.01-17.43.45:980][325]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.05.01-17.43.46:156][325]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.05.01-17.43.46:156][325]MapCheck: New page: MainMenuLevel - May 1, 2019, 7:43:46 AM
+[2019.05.01-17.43.46:158][325]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.68ms to complete.
+[2019.05.01-17.43.46:181][325]LogEditorBuildUtils: Build time 0:07
+[2019.05.01-17.43.49:721][469]LightingResults: Warning: RoomStart Object has wrapping UVs.
+[2019.05.01-17.43.49:911][479]Job is a success!
+[2019.05.01-17.43.49:961][480]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-17.43.50:171][480]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.150s
+[2019.05.01-17.43.50:171][480]LogVolumetricLightmapImport:      Indirection Texture 48x48x48 = 0.4Mb
+[2019.05.01-17.43.50:171][480]LogVolumetricLightmapImport:      BrickData 1175x5x5 = 1.1Mb (trimmed 0.5Mb due to 0.010000 MinBrickError)
+[2019.05.01-17.43.50:171][480]LogVolumetricLightmapImport:      Bricks at Level
+[2019.05.01-17.43.50:171][480]LogVolumetricLightmapImport:          0: 11.5% covering 100.0% of volume
+[2019.05.01-17.43.50:171][480]LogVolumetricLightmapImport:          1: 6.8% covering 0.9% of volume
+[2019.05.01-17.43.50:171][480]LogVolumetricLightmapImport:          2: 81.7% covering 0.2% of volume
+[2019.05.01-17.43.50:411][480]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2019.05.01-17.43.50:412][480]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2019.05.01-17.43.50:412][480]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2019.05.01-17.43.50:474][480]Lightmass on BOIJANGLEV3: 3.44 sec total, 122 ms importing, 49 ms setup, 745 ms photons, 2.47 sec processing, 0 ms extra exporting [31/31 mappings]. Threads: 26.6 sec total, 9.72 sec processing.
+[2019.05.01-17.43.50:607][480]LogStaticLightingSystem: Illumination: 10.3 sec (206 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.05.01-17.43.50:607][480]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.05.01-17.43.50:607][480]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.05.01-17.43.51:000][480]DumpUnbuiltLightIteractions
+[2019.05.01-17.43.51:000][480]Lights with unbuilt interactions: 0
+[2019.05.01-17.43.51:000][480]
+[2019.05.01-17.43.51:000][480]Primitives with unbuilt interactions: 0
+[2019.05.01-17.43.51:126][481]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.05.01-17.43.51:126][481]MapCheck: New page: MainMenuLevel - May 1, 2019, 7:43:51 AM
+[2019.05.01-17.43.51:128][481]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.693ms to complete.
+[2019.05.01-17.44.37:223][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.44.37:284][248]LogSlate: Window 'Message Log' being destroyed
+[2019.05.01-17.44.37:297][248]LogSlate: Window 'Message Log' being destroyed
+[2019.05.01-17.44.47:015][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-17.44.47:081][835]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.01-17.44.47:099][835]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Blueprints/UI/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Blueprints/UI/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/SideScrollerBP/Blueprints/UI/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Blueprints/UI/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.05.01-17.44.47:099][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.01-17.44.47:100][835]PIE: New page: PIE session: MainMenuLevel (May 1, 2019, 7:44:47 AM)
+[2019.05.01-17.44.47:100][835]LogOnline: Warning: STEAM: Steam API disabled!
+[2019.05.01-17.44.47:100][835]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2019.05.01-17.44.47:112][835]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerGameInstance'
+[2019.05.01-17.44.47:112][835]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerGameInstance'
+[2019.05.01-17.44.47:112][835]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/SideScrollerBP/Blueprints/SideScrollerGameInstance.SideScrollerGameInstance_C'
+[2019.05.01-17.44.47:112][835]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Blueprints/UI/UEDPIE_0_MainMenuLevel
+[2019.05.01-17.44.47:127][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014411s)
+[2019.05.01-17.44.47:127][835]LogAIModule: Creating AISystem for world MainMenuLevel
+[2019.05.01-17.44.47:127][835]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2019.05.01-17.44.47:128][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Blueprints/UI/MainMenuLevel.MainMenuLevel to /Game/SideScrollerBP/Blueprints/UI/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.015210s)
+[2019.05.01-17.44.47:214][835]LogInit: XAudio2 using 'Speakers (6- USB Multi-Channel Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.01-17.44.47:223][835]LogInit: FAudioDevice initialized.
+[2019.05.01-17.44.47:271][835]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.01-17.44.47:279][835]LogWorld: Bringing World /Game/SideScrollerBP/Blueprints/UI/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2019.05.01-12.44.47
+[2019.05.01-17.44.47:280][835]LogWorld: Bringing up level for play took: 0.008262
+[2019.05.01-17.44.47:293][835]LogOnlineVoice: OSS: Voice interface disabled by config [OnlineSubsystem].bHasVoiceEnabled
+[2019.05.01-17.44.47:295][835]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.05.01-17.44.47:296][835]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2019.05.01-17.44.47:296][835]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2019.05.01-17.44.47:298][835]LogSlate: New Slate User Created.  User Index 2, Is Virtual User: 0
+[2019.05.01-17.44.47:298][835]LogSlate: Slate User Registered.  User Index 2, Is Virtual User: 0
+[2019.05.01-17.44.47:299][835]LogSlate: New Slate User Created.  User Index 3, Is Virtual User: 0
+[2019.05.01-17.44.47:299][835]LogSlate: Slate User Registered.  User Index 3, Is Virtual User: 0
+[2019.05.01-17.44.47:300][835]PIE: Play in editor start time for /Game/SideScrollerBP/Blueprints/UI/UEDPIE_0_MainMenuLevel 0.1
+[2019.05.01-17.44.47:301][835]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Blueprints/UI/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Blueprints/UI/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/SideScrollerBP/Blueprints/UI/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Blueprints/UI/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.05.01-17.44.51:101][ 61]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Blueprints/UI/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Blueprints/UI/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/SideScrollerBP/Blueprints/UI/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Blueprints/UI/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.05.01-17.44.51:101][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-17.44.51:140][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.01-17.44.51:141][ 61]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Blueprints/UI/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Blueprints/UI/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/SideScrollerBP/Blueprints/UI/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Blueprints/UI/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.05.01-17.44.51:169][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-17.44.51:171][ 61]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.05.01-17.44.52:293][ 61]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.122 s
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: === Handled ensure: ===
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: 
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\UMG\Private\Slate\SObjectWidget.cpp] [Line: 41]
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: SObjectWidget for 'MainMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.MainMenu_C_0' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: Stack: 
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: [Callstack] 0x00007ffeead19033 UE4Editor-UMG.dll!UnknownFunction []
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: [Callstack] 0x00007ffeeba8bbe6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: [Callstack] 0x00007ffee6b1e1a9 UE4Editor-Engine.dll!UnknownFunction []
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: [Callstack] 0x00007ffee6b2a79f UE4Editor-Engine.dll!UnknownFunction []
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: [Callstack] 0x00007ffeecd2ce10 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: [Callstack] 0x00007ffeeccefdd7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: [Callstack] 0x00007ffeeccef2e8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: [Callstack] 0x00007ffedf5c2521 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: [Callstack] 0x00007ffedeff3002 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: [Callstack] 0x00007ffedf912346 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: [Callstack] 0x00007ff6c89b6225 UE4Editor.exe!UnknownFunction []
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: [Callstack] 0x00007ff6c89c596c UE4Editor.exe!UnknownFunction []
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: [Callstack] 0x00007ff6c89c59ea UE4Editor.exe!UnknownFunction []
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: [Callstack] 0x00007ff6c89d48da UE4Editor.exe!UnknownFunction []
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: [Callstack] 0x00007ff6c89d659a UE4Editor.exe!UnknownFunction []
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: [Callstack] 0x00007fff75aa4034 KERNEL32.DLL!UnknownFunction []
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: [Callstack] 0x00007fff774b3691 ntdll.dll!UnknownFunction []
+[2019.05.01-17.44.52:294][ 61]LogOutputDevice: Error: 
+[2019.05.01-17.44.52:304][ 61]LogStats:                SubmitErrorReport -  0.000 s

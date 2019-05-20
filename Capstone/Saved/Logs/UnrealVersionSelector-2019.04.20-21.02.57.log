@@ -1,0 +1,5 @@
+UnrealBuildTool.GuardedMain: Command line: "D:/ProgramFiles/Epic Games/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe"  -projectfiles -project="D:/hitec/Documents/CSI/Capstone/CapstoneGame.uproject" -game -rocket -progress -log="D:\hitec\Documents\CSI\Capstone/Saved/Logs/UnrealVersionSelector-2019.04.20-21.02.57.log"
+ProjectFileGenerator.GenerateProjectFiles: Discovering modules, targets and source code for project...
+DynamicCompilation.CompileAssembly: While compiling D:\hitec\Documents\CSI\Capstone\Intermediate\Build\BuildRules\CapstoneGameModuleRules.dll:
+DynamicCompilation.CompileAssembly: d:\hitec\Documents\CSI\Capstone\Source\CapstoneGame\CapstoneGame.Build.cs(6,12) : error CS1729: 'UnrealBuildTool.ModuleRules' does not contain a constructor that takes 0 arguments
+UnrealBuildTool.GuardedMain: ERROR: UnrealBuildTool Exception: Unable to compile source files.

@@ -1,0 +1,14 @@
+﻿  Creating makefile for hot reloading CapstoneGameEditor (source directory changed)
+  Compiling game modules for hot reload
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+D:\hitec\Documents\CSI\Capstone\Source\CapstoneGame\CapstoneGame.Build.cs : warning : Modules must specify an explicit precompiled header (eg. PrivatePCHHeaderFile = "CapstoneGame.h") from UE 4.21 onwards.
+  Building 3 actions with 12 processes...
+    [1/3] CustomViewportClient.cpp
+D:\hitec\Documents\CSI\Capstone\Source\CapstoneGame\CustomViewportClient.cpp(6): warning C4458: declaration of 'Viewport' hides class member
+    D:\ProgramFiles\Epic Games\UE_4.21\Engine\Source\Runtime\Engine\Classes\Engine/GameViewportClient.h(586): note: see declaration of 'UGameViewportClient::Viewport'
+    [2/3] UE4Editor-CapstoneGame-6141.lib
+       Creating library D:\hitec\Documents\CSI\Capstone\Intermediate\Build\Win64\UE4Editor\Development\CapstoneGame\UE4Editor-CapstoneGame-6141.lib and object D:\hitec\Documents\CSI\Capstone\Intermediate\Build\Win64\UE4Editor\Development\CapstoneGame\UE4Editor-CapstoneGame-6141.exp
+    [3/3] UE4Editor-CapstoneGame-6141.dll
+       Creating library D:\hitec\Documents\CSI\Capstone\Intermediate\Build\Win64\UE4Editor\Development\CapstoneGame\UE4Editor-CapstoneGame-6141.suppressed.lib and object D:\hitec\Documents\CSI\Capstone\Intermediate\Build\Win64\UE4Editor\Development\CapstoneGame\UE4Editor-CapstoneGame-6141.suppressed.exp
+  Deploying CapstoneGameEditor Win64 Development...
+  Total build time: 37.33 seconds (Parallel executor: 30.59 seconds)
